@@ -1,0 +1,4 @@
+[submodule "archeti-org/sale-workflow"]
+	path = archeti-org/sale-workflow
+	url = git@github.com:archeti-org/sale-workflow.git
+	branch = 14.0-mig-sale_company_currency
